@@ -1,4 +1,4 @@
 ---
-title: Setting up Github Pages
+title: Blogs using Github Pages
 ---
 
